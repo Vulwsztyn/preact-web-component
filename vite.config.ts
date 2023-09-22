@@ -20,7 +20,7 @@ export default defineConfig(({ mode }) => {
     },
     plugins: [preact()],
     define: {
-      'process.env': env,
+      // 'process.env': env,
       'process.env.NODE_ENV': JSON.stringify(mode),
     },
   }
