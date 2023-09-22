@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   preact:
-    specifier: ^10.11.3
+    specifier: ^10.17.1
     version: 10.17.1
   preact-custom-element:
     specifier: ^4.2.1
